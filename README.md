@@ -15,12 +15,12 @@ Projeto de um Gerenciador para o cadastro de todas as informações relevantes r
 <p align="justify">
     O sorteio da fase de grupos da Copa do Mundo, para as 32 equipes que irão participar, aconteceu em Doha, no Catar, em 1º de abril de 2022. Então foram sorteadas as equipes, formados os grupos, agendados os jogos em dia, horário e local.
     Visitar o endereço abaixo para identificar as equipes, grupos, jogos, e dia, horário e local dos mesmos:
-    https://www.fifa.com/fifaplus/en/tournaments/mens/ worldcup/qatar2022
+    https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022
 </p>
 <p align="justify">
     Visando ao acompanhamento das partidas, Zé do Gol, ex-jogador do Fluminense de Feira Futebol Clube, precisa de um aplicativo que, além de cadastrar as equipes, grupos, jogos, dia, horário e local de cada um, possibilita informar o resultado de cada jogo da 1ª fase, pois seu objetivo é identificar após o término simulado da mesma, as seleções classificadas em cada grupo e os confrontos imediatos formados para as oitavas-de-final (dentre outras informações a saber).
     Regras de classificação na 1ª fase:
-    https://en.wikipedia.org/wiki/2022 FIFA World Cup#Group_stage
+    https://en.wikipedia.org/wiki/2022FIFAWorldCup#Group_stage
 </p>
 
 <h3 align="center">
