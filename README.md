@@ -1,0 +1,1 @@
+# Gerenciador-Copa-do-Mundo
