@@ -36,7 +36,7 @@ Projeto de um Gerenciador para o cadastro de todas as informações relevantes r
 </p>
 
 <p align="justify">
-- Além de efetuar o cadastro das informações, o sistema deve garantir a integridade dos dados e a consistência das informações lançadas. O sistema deve apresentar a opção de edição do cadastro, assim como a opção de exclusão de algum cadastro, por exemplo por ter sido feito incorretamente. Mais, as informações cadastradas não devem ser perdidas mesmo após o fechamento do programa.
+- Além de efetuar o cadastro das informações, o sistema deve garantir a integridade dos dados e a consistência das informações lançadas. O sistema deve apresentar a opção de edição do cadastro, assim como a opção de exclusão de algum cadastro, por exemplo por ter sido feito incorretamente. Entretanto, as informações cadastradas não devem ser perdidas mesmo após o fechamento do programa.
 
 </p>
 
